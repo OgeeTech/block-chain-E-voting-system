@@ -1,0 +1,4 @@
+# Ignore these files or directories
+node_modules/
+build/
+*.log
